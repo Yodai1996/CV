@@ -1,7 +1,7 @@
 # CV
 This is a directory for Computer Vision.
 These codes are available on the developing environment of google colaboratory.
-Reference material is this https://japan-medical-ai.github.io/medical-ai-course-materials/index.html  (written in Japanese).
+Reference material are https://japan-medical-ai.github.io/medical-ai-course-materials/index.html  (written in Japanese).
 Details of what I implemented are below:
 
 
