@@ -16,4 +16,4 @@ using the architecture of Fully Convolutional Network or U_Net
 
 the architecture is almost same to (1). 
 
-Just only a AutoEncoder is a little bit meaningless. However, this arcitecture can be utilized in the part of Generator of Gan. 
+Just only a AutoEncoder is a little bit meaningless. However, this arcitecture can be utilized in the part of Generator of Gan. For example, this paper https://arxiv.org/pdf/1611.07004.pdf introduce conditional GAN using U_Net, for the task of Image to Image, such as reconstruction of Monochrome Image to Colorful Image.  
