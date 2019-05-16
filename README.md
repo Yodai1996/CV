@@ -9,3 +9,11 @@ I used the data of MRI images of hearts (256*256 sizes) and the segmented data o
 
 The number of the data is just 282, but the scores such as Pixcel Accurecy and Intersection over Union are quite high, 
 using the architecture of Fully Convolutional Network or U_Net
+
+
+
+(2) AutoEncoder using U_Net
+
+the architecture is almost same to (1). 
+
+Just only a AutoEncoder is a little bit meaningless. However, this arcitecture can be utilized in the part of Generator of Gan. 
